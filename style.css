@@ -1,0 +1,145 @@
+#p{
+  height: 20%;
+}
+.container {
+  width: 970px;
+  background: radial-gradient(ellipse at center, #735664 0%,#210d12 100%);
+  /*background: lightgray;*/
+}
+.header  {
+  background-color: #eaeaea;
+  display: inline-block;
+  width: 970px;
+}
+.header h1{
+  display: inline-block;
+  width:500px;
+  padding-left: 15px;
+  background: #eaeaea;
+}
+.header h2{
+  text-align: right;
+  float: right;
+  width: 300;
+  padding-top: 25px;
+  background: #eaeaea;
+}
+.header h3{
+  text-align: left;
+  background: #eaeaea;
+}
+.header h4{
+  text-align: left;
+  background: #eaeaea;
+}
+.main_content{
+}
+#aboutheader{
+  background: lightgray;
+  padding: 3px;
+}
+
+    .about_pic{
+      width:450px;
+      padding: 15px;
+    display: inline-block;
+
+  }
+    /*.about_pic{
+      display: inline-block;
+      width: 440px;
+    }*/
+#aboutjayne{
+      background: white;
+      width: 441px;
+      padding: 15px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      vertical-align: top;
+      display: inline-block;
+  }
+
+/*.footer{
+  margin-left: 366px;*/
+}
+.banners{
+  vertical-align: top;
+
+}
+  #lamode{
+      background: white;
+      width: 300px;
+      display: inline-block;
+      margin: 10px;
+      vertical-align: top;
+
+  }
+  #la_mode{
+      width: 300px;
+  }
+  .techimg{
+      width: 40px;
+      height: 40px;
+      margin: 5px;
+  }
+  #familycontacts{
+      background: white;
+      width: 300px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 10px;
+
+
+  }
+  #family_contacts{
+      width: 300px;
+  }
+  #fiveEleven{
+      background: white;
+      width: 300px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 10px;
+
+
+  }
+  #five-Eleven{
+      width: 300px;
+  }
+  .submit{
+      display: block;
+      border-radius: 10px;
+      background-color: #6eaf9b;
+      text color: white;
+      font-size: 14px;
+      margin-left: 95px;
+  }
+
+.footer{
+  text-align: center;
+  background-color: #eaeaea;
+  text: black;
+}/*.footer{*/
+    	/*content: black;*/
+      /*margin: 0px auto;*/
+    	/*padding: 10px;*/
+    	/*text-align: center;*/
+
+
+
+/*.footer {*/
+    /*margin-left: 366px;*/
+/*}*/
+
+#github{
+  width: 15px;
+}
+#twitter{
+  width: 15px;
+}
+#linkedin{
+  width: 15px;
+}
+#codepen{
+  width: 15px;
+}
